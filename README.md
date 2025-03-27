@@ -65,7 +65,7 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 - Developed a **case management system** for healthcare organizations.  
 - **Tech Stack:** .NET Core 3.0, Angular, SQL Server, C#, Azure  
 
-### **6. Pattern Identification in Human Generated Random Numbers(HRGN)** 🧠  
+### **6. Pattern Identification in Human Generated Random Numbers(HGRN)** 🧠  
 - Research on **AI-based pattern recognition in random number sequences**.  
 - **Tech Stack:** PyTorch, NumPy, SciPy  
 
