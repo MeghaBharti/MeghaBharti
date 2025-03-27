@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Megha Bharti  
 
 ## 💡 About Me  
-I am a passionate **AI Researcher & Software Engineer** currently pursuing an **M.Tech in Artificial Intelligence** at **Delhi Technological University (DTU), New Delhi**. With a strong foundation in **Machine Learning, Deep Learning, and Scalable Software Development**, I thrive on building **intelligent AI-driven systems** that create real-world impact.  
+I am a passionate **AI Enthusiast & Software Engineer** currently pursuing an **M.Tech in Artificial Intelligence** at **Delhi Technological University (DTU), New Delhi**. With a strong foundation in **Machine Learning, Deep Learning, and Scalable Software Development**, I thrive on building **intelligent AI-driven systems** that create real-world impact.  
 
 🚀 **What drives me?**  
 - **AI & Neural Networks** – Exploring Generative AI, Large Language Models, and Deep Learning architectures.  
