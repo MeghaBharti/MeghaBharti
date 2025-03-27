@@ -13,8 +13,14 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 ---
 
 ## 🎓 Education  
-- **M.Tech (Artificial Intelligence)** – Delhi Technological University (DTU), New Delhi *(2024 - 2026, Pursuing)*  
-- **B.E. (Computer Science & Engineering)** – Sant Longowal Institute of Engineering and Technology (SLIET), Punjab *(2019 - 2022)*  
+### **M.Tech (Artificial Intelligence) – Delhi Technological University (DTU), New Delhi** *(2024 - 2026, Pursuing)*  
+#### **Course Subjects:**  
+- **Artificial Intelligence & Machine Learning (AI/ML)**  
+- **Artificial Neural Networks (ANN)**  
+- **Deep Learning**  
+- **Natural Language Processing (NLP)**     
+
+### **B.E. (Computer Science & Engineering) – Sant Longowal Institute of Engineering and Technology (SLIET), Punjab** *(2019 - 2022)*    
 
 ---
 
@@ -59,16 +65,16 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 - Developed a **case management system** for healthcare organizations.  
 - **Tech Stack:** .NET Core 3.0, Angular, SQL Server, C#, Azure  
 
-### **6. Pattern Identification in Human Generated Random Numbers (Neural Networks)** 🧠  
+### **6. Pattern Identification in Human Generated Random Numbers(HRGN)** 🧠  
 - Research on **AI-based pattern recognition in random number sequences**.  
 - **Tech Stack:** PyTorch, NumPy, SciPy  
 
 ---
 
 ## 🏆 Achievements  
-👉 **GATE Qualified (2023, 2024)**  
-👉 **Tutor at SSDC** *(Data Structures, OS, DBMS, Computer Networks)*  
-👉 **Competitive Programmer & Problem Setter**  
+- **GATE Qualified (2023, 2024)**  
+- **Tutor at SSDC** *(Data Structures, OS, DBMS, Computer Networks)*  
+- **Competitive Programmer & Problem Setter**  
 
 ---
 
@@ -77,26 +83,26 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 - Python, C++, C#, SQL  
 
 ### **AI/ML & Data Science:**  
-- PyTorch, Keras, Scikit-learn, Pandas, NumPy  
+- PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
 
 ### **Cloud & DevOps:**  
 - **Azure Services:** Cosmos DB, Blob Storage, Azure Functions  
-- **Deployment & CI/CD:** Docker, GitHub Actions  
+- **Deployment & CI/CD:** Docker, GitHub Actions
 
 ### **Web Development:**  
-- .NET Core, Angular, Blazor, REST APIs, Entity Framework core, MS SQL
+- .NET Core, Angular, Blazor, REST APIs, Entity Framework  
 
 ### **Databases:**  
-- SQL Server, MongoDB, PostgreSQL, IndexedDB  
+- MS SQL Server, MongoDB, PostgreSQL 
 
 ### **Version Control & Tools:**  
-- Git, Visual Studio, VS Code, Jupyter Notebook , Source Tree 
+- Git,Source Tree,Github Extensions, Visual Studio, VS Code, Jupyter Notebook  
 
 ---
 
 ## 🏆 Competitive Programming  
 I actively solve **Data Structures & Algorithms (DSA)** problems on LeetCode.  
-**Check out my profile:** [LeetCode](https://leetcode.com/u/MeghaBharti24/)  
+🔗 **Check out my profile:** [LeetCode](https://leetcode.com/u/MeghaBharti24/)  
 
 ---
 
@@ -105,5 +111,4 @@ I actively solve **Data Structures & Algorithms (DSA)** problems on LeetCode.
 📍 **GitHub:** [MeghaBharti](https://github.com/MeghaBharti)  
 📍 **Email:** meghabharti2024@gmail.com  
 
-🚀 **Excited about AI-driven innovation! Let’s connect and build the future!**
-
+🚀 **Excited about AI-driven innovation! Let’s connect and build the future!**  
