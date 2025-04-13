@@ -41,9 +41,11 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 ---
 
 ## 🔬 Research & Projects  
-## **1.RAG Based SHL Assessment Recommender Engine**  
-An AI-powered engine that provides personalized assessment recommendations for recruitment processes.  
+### **1. RAG-based SHL Assessment Recommender Engine** 
+- Developed an **AI-powered system** using a **Retrieval-Augmented Generation (RAG)** approach to provide **personalized assessment recommendations** for the recruitment process.  
+- Leveraged **machine learning algorithms** to analyze user profiles and recommend relevant assessments dynamically.  
 🔗 [Check out the project here](https://github.com/MeghaBharti/shl-assessment-recommender-engine)
+
 
 ### **2. AI-Driven Crop Disease Prediction** 🌱  
 - Built a **deep learning model** for detecting crop diseases from images.  
