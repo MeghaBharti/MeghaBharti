@@ -41,31 +41,35 @@ I actively contribute to **open-source projects**, engage in **competitive progr
 ---
 
 ## 🔬 Research & Projects  
-### **1. AI-Driven Crop Disease Prediction** 🌱  
+## **1.RAG Based SHL Assessment Recommender Engine**  
+An AI-powered engine that provides personalized assessment recommendations for recruitment processes.  
+🔗 [Check out the project here](https://github.com/MeghaBharti/shl-assessment-recommender-engine)
+
+### **2. AI-Driven Crop Disease Prediction** 🌱  
 - Built a **deep learning model** for detecting crop diseases from images.  
 - Integrated **IoT-based smart agriculture solutions**.  
 - **Tech Stack:** Python, TensorFlow, OpenCV, Flask, MongoDB  
 
-### **2. Sentiment Analysis on IMDB Dataset** 🎭  
+### **3. Sentiment Analysis on IMDB Dataset** 🎭  
 - Compared **Logistic Regression, Naive Bayes, SVM, and BERT** models.  
 - Evaluated **precision, recall, F1-score, and accuracy metrics**.  
 - **Tech Stack:** Python, Scikit-learn, TensorFlow, NLTK  
 
-### **3. Event Management System (.NET Core)** 📅  
+### **4. Event Management System (.NET Core)** 📅  
 - Developed a **full-stack event booking platform** using **.NET Core & Angular**.  
 - Implemented **authentication, event categories, and dynamic scheduling**.  
 - **GitHub Repo:** [Event Management System](https://github.com/abhie7/event-management-system-net-core)  
 - **Tech Stack:** .NET Core, Angular, SQL Server  
 
-### **4. FACTORAI – AI-Driven Data Analytics** 📊  
+### **5. FACTORAI – AI-Driven Data Analytics** 📊  
 - Designed **advanced AI-powered data analytics and visualization solutions**.  
 - **Tech Stack:** Angular 15+, .NET Core 6, MSSQL, Bootstrap  
 
-### **5. FACE – Global Healthcare Case Management** 🏥  
+### **6. FACE – Global Healthcare Case Management** 🏥  
 - Developed a **case management system** for healthcare organizations.  
 - **Tech Stack:** .NET Core 3.0, Angular, SQL Server, C#, Azure  
 
-### **6. Pattern Identification in Human Generated Random Numbers(HGRN)** 🧠  
+### **7. Pattern Identification in Human Generated Random Numbers(HGRN)** 🧠  
 - Research on **AI-based pattern recognition in random number sequences**.  
 - **Tech Stack:** PyTorch, NumPy, SciPy  
 
